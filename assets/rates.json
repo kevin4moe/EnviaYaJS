@@ -1,0 +1,29 @@
+{
+  "origin_direction": {
+     "country_code":"MX",
+     "postal_code":"36000"
+  },
+  "destination_direction": {
+    "country_code":"MX",
+    "postal_code":"01210"
+  },
+  "shipment":{
+    "shipment_type":"Package",
+    "parcels":[
+      {
+        "quantity":"1",
+        "weight":"0.5",
+        "weight_unit":"kg",
+        "length":"10",
+        "height":"20",
+        "width":"30",
+        "dimension_unit":"cm"
+      }
+    ]
+  },
+  "order_total_amount": 0.1,
+  "currency":"MXN",
+  "intelligent_filtering":true,
+  "enable_cached_rates":false,
+  "timeout":15
+}
