@@ -18,4 +18,4 @@ Busco que se puedas tener un código funcional que permita copiar y pegar, princ
 
 ## Ruta
 
-[x] `/rates` Calcular el costo de envió entre dos puntos, usando el código postal y el tipo de paquete.
+- [x] `/rates` Calcular el costo de envió entre dos puntos, usando el código postal y el tipo de paquete.
