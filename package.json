@@ -1,0 +1,30 @@
+{
+  "name": "enviayajs",
+  "version": "0.1.0",
+  "description": "La documentación oficial no es muy buena, no voy a mejorarla, solo crear los programas base con Nodejs para que se puedan usar en otros proyecto.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin4moe/EnviaYaJS.git"
+  },
+  "keywords": [
+    "enviaya",
+    "nodejs",
+    "javascript",
+    "api",
+    "functions"
+  ],
+  "author": "kevin4moe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevin4moe/EnviaYaJS/issues"
+  },
+  "homepage": "https://github.com/kevin4moe/EnviaYaJS#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
